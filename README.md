@@ -8,11 +8,11 @@ According to the historical recode of SpaceX Falcon 9 Landing plan, we can desig
 
 First of all, I collected data to identified variables and selected necessary attributes for modeling preparation using Python libraries.
 
-Ø   Using correlation method to validate the numerical variables.
-Ø   Plotting their relationship through scatter and checking whether they are linear or non-linear
-Ø   Check the relationship between pay load mass (kg) and Launch sites
-Ø   Compared three variables (Success rate, Flight Number, and Pay Load Mass) with orbit types
-Ø   Plotting the yearly trend of the launch success
+ - Using correlation method to validate the numerical variables.
+ - Plotting their relationship through scatter and checking whether they are linear or non-linear
+ - Check the relationship between pay load mass (kg) and Launch sites
+ - Compared three variables (Success rate, Flight Number, and Pay Load Mass) with orbit types
+ - Plotting the yearly trend of the launch success
 
 Secondly, I sued Folium to identify the launch site locations in the map with markers to show the success indicators.
 
@@ -25,49 +25,83 @@ Finally, I built four machine learning models to validate the best hyperplane in
   
 ## Features
 
-·      Data Wrangling
-·      SQL
-·      EDA processes
-·      Data Visualization
-·      Dashboard
-·      Machine Learning models with validations:
--       Best score
--       Best parameters
--       Accuracy score
--       Precision
--       Recall
--       F-1 score 
+- Data Wrangling
+- SQL
+- EDA processes
+- Data Visualization
+- Dashboard
+- Machine Learning models with validations:
+  1. Best score
+  2. Best parameters
+  3. Accuracy score
+  4. Precision
+  5. Recall
+  6. F-1 score 
 ## Requirements
 
-     The libraries I used in Python:
-·      pandas
-·      numpy
-·      requests
-·      datetime
-·      sys
-·      BeautifulSoup
-·      unicodedata
-·      re
-·      csv,sqlite3
-·      prettytable
-·      seaborn
-·      matplotlib.pyplot
-·      folium
-·      from folium.plugins import MarkerCluster
-·      from folium.plugins import MousePosition
-·      from folium.features import DivIcon
-·      dash
-·      from dash import html, dcc
-·      from dash.dependencies import Input, Output
-·      plotly.express
-·      from sklearn import preprocessing
-·      from sklearn.preprocessing import StandardScaler
-·      from sklearn.model_selection import train_test_split
-·      from sklearn.linear_model import LogisticRegression
-·      from sklearn.svm import SVC
-·      from sklearn.tree import DecisionTreeClassifier
-·      from sklearn.neighbors import KNeighborsClassifier
-·      from sklearn.model_selection import GridSearchCV
+### Python Libraries
+
+The following Python libraries were used throughout this project:
+
+#### Data Processing and Analysis
+- pandas
+- numpy
+- datetime
+- re
+- unicodedata
+- csv
+- sqlite3
+
+#### Web Scraping and Data Collection
+- requests
+- BeautifulSoup (`bs4`)
+
+#### System Utilities
+- sys
+- prettytable
+
+#### Data Visualization
+- seaborn
+- matplotlib.pyplot
+- folium
+  - `MarkerCluster`
+  - `MousePosition`
+  - `DivIcon`
+
+#### Dashboard Development
+- dash
+- `html`
+- `dcc`
+- `Input`
+- `Output`
+- plotly.express
+
+#### Machine Learning
+- sklearn.preprocessing
+  - `StandardScaler`
+- sklearn.model_selection
+  - `train_test_split`
+  - `GridSearchCV`
+- sklearn.linear_model
+  - `LogisticRegression`
+- sklearn.svm
+  - `SVC`
+- sklearn.tree
+  - `DecisionTreeClassifier`
+- sklearn.neighbors
+  - `KNeighborsClassifier`
+
+---
+
+### Installation
+
+Install the required packages using:
+
+```bash
+pip install pandas numpy requests beautifulsoup4 prettytable seaborn matplotlib folium dash plotly scikit-learn
+```
+
+---
  
 ## Usage
  
@@ -91,11 +125,11 @@ Decision Tree achieved the highest accuracy score of 0.875 on the test dataset.
  
  
 ## Acknowledgement
- 
+
 This project was completed as part of the IBM Data Science Professional Certificate on Coursera.
- 
-The project includes original work by the author, including data collection, data preparation, exploratory data analysis, visualization, machine learning model development, evaluation, and interpretation of results.
- 
+
+All analysis, code implementation, visualizations, interpretations, and project decisions in this repository were completed by the author.
+
 During the development process, ChatGPT was used as a learning and productivity assistant to support debugging, code review, concept clarification, and documentation improvement. All generated suggestions were reviewed, validated, and adapted by the author before implementation.
- 
+
 The project reflects the author's understanding, analysis, and final conclusions.
