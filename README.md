@@ -122,6 +122,9 @@ This is the assignment for self-learning in IBM Data Science Professional Certif
 ## Results
 
 Decision Tree achieved the highest accuracy score of 0.875 on the test dataset.
+
+## Project Report
+[view project report](https://github.com/yunachou05/data-science-learning-notes/blob/main/Capstone_SpaceX%20Falcon%209%20First%20Stage%20Landing%20Prediction_v.3%20.pdf)
  
  
 ## Acknowledgement
