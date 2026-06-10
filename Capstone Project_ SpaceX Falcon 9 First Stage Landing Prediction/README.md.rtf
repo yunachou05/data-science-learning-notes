@@ -1,0 +1,252 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 ArialMT;\f2\froman\fcharset0 TimesNewRomanPSMT;
+\f3\ftech\fcharset0 Wingdings-Regular;\f4\ftech\fcharset77 Symbol;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs32 \cf0 \expnd0\expndtw0\kerning0
+## Project Name:\
+Capstone_SpaceX Falcon 9 First Stage Landing Prediction\
+<Resources from IBM Skills NetWork Lab through IBM Data Science Professional Certification> \uc0\u8232 \u8232 \u8232 ## Introduction\
+\pard\pardeftab720\li960\fi-960\partightenfactor0
+
+\f1 \cf0 \'95
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 According to the historical recode of SpaceX Falcon 9 Landing plan, we can design and validate models to predict Falcon 9 landing probability through collected data and methodology.\
+
+\f1 \'95
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 First of all, I collected data to identified variables and selected necessary attributes for modeling preparation using Python libraries.\
+\pard\pardeftab720\li1920\fi-1920\partightenfactor0
+
+\f3 \cf0 \'d8
+\f2\fs18\fsmilli9333 \'a0 
+\f0\fs32 \'a0Using correlation method to validate the numerical variables.\
+
+\f3 \'d8
+\f2\fs18\fsmilli9333 \'a0 
+\f0\fs32 \'a0Plotting their relationship through scatter and checking whether they are linear or non-linear\
+
+\f3 \'d8
+\f2\fs18\fsmilli9333 \'a0 
+\f0\fs32 \'a0Check the relationship between pay load mass (kg) and Launch sites\
+
+\f3 \'d8
+\f2\fs18\fsmilli9333 \'a0 
+\f0\fs32 \'a0Compared three variables (Success rate, Flight Number, and Pay Load Mass) with orbit types\
+
+\f3 \'d8
+\f2\fs18\fsmilli9333 \'a0 
+\f0\fs32 \'a0Plotting the yearly trend of the launch success\
+\pard\pardeftab720\li960\fi-960\partightenfactor0
+
+\f1 \cf0 \'95
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 Secondly, I sued Folium to identify the launch site locations in the map with markers to show the success indicators\
+
+\f1 \'95
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 Finally, I built four machine learning models to validate the best hyperplane in model prediction through accuracy scores and confusion matrix. There are the machine learning models I chose to validate:\'a0\
+\pard\pardeftab720\li1920\fi-1920\partightenfactor0
+
+\f3 \cf0 \'d8
+\f2\fs18\fsmilli9333 \'a0 
+\f0\fs32 Logistic Regression\
+
+\f3 \'d8
+\f2\fs18\fsmilli9333 \'a0 
+\f0\fs32 SVM\
+
+\f3 \'d8
+\f2\fs18\fsmilli9333 \'a0 
+\f0\fs32 Decision Tree\
+
+\f3 \'d8
+\f2\fs18\fsmilli9333 \'a0 
+\f0\fs32 KNN\
+\pard\pardeftab720\partightenfactor0
+\cf0 \uc0\u8232 \u8232 ## Features\
+\pard\pardeftab720\li960\fi-960\partightenfactor0
+
+\f4 \cf0 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 Data Wrangling\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 SQL\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 EDA processes\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 Data Visualization\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 Dashboard\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 Machine Learning models with validations:\
+\pard\pardeftab720\li1440\fi-1440\partightenfactor0
+\cf0 -
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 Best score\
+-
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 Best parameters\
+-
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 Accuracy score\
+-
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 Precision\
+-
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 Recall\
+-
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 F-1 score\uc0\u8232 \
+\pard\pardeftab720\partightenfactor0
+\cf0 ## Requirements\
+\'a0\'a0\'a0\'a0 The libraries I used in Python:\
+\pard\pardeftab720\li960\fi-960\partightenfactor0
+
+\f4 \cf0 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 pandas\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 numpy\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 requests\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 datetime\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 sys\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 BeautifulSoup\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 unicodedata\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 re\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 csv,sqlite3\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 prettytable\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 seaborn\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 matplotlib.pyplot\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 folium\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from folium.plugins import MarkerCluster\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from folium.plugins import MousePosition\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from folium.features import DivIcon\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 dash\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from dash import html, dcc\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from dash.dependencies import Input, Output\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 plotly.express\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from sklearn import preprocessing\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from sklearn.preprocessing import StandardScaler\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from sklearn.model_selection import train_test_split\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from sklearn.linear_model import LogisticRegression\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from sklearn.svm import SVC\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from sklearn.tree import DecisionTreeClassifier\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from sklearn.neighbors import KNeighborsClassifier\
+
+\f4 \'e1
+\f2\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0 
+\f0\fs32 from sklearn.model_selection import GridSearchCV\
+\'a0\
+\pard\pardeftab720\partightenfactor0
+\cf0 ## Usage\
+\'a0\
+python train.py\
+\'a0\
+Description: \uc0\u8232 \'a0\'a0\'a0\'a0\'a0 This is the assignment for self-learning in IBM Data Science Professional Certification through IBM Skills NetWork Lab to help me understand how to use data methodology with Python to clean and prepare data. Then, I can use the cleaned data to build a prediction model through machine learning methods. The class chose four machine learning models which were logistic regression, SVM, decision tree, and KNN with confusion matrix and the accuracy scores.\'a0\
+\'a0\
+## Methodology\uc0\u8232 1. Data Collection\u8232 2. Data Cleaning\u8232 3. Feature Engineering\u8232 4. Model Training\u8232 5. Hyperparameter Tuning\u8232 6. Evaluation\
+\uc0\u8232 \u8232 ## Results\u8232 Decision Tree achieved the highest accuracy score of 0.875 on the test dataset.\
+\'a0\
+\'a0\
+## Acknowledgement\
+\'a0\
+This project was completed as part of the IBM Data Science Professional Certificate on Coursera.\
+\'a0\
+The project includes original work by the author, including data collection, data preparation, exploratory data analysis, visualization, machine learning model development, evaluation, and interpretation of results.\
+\'a0\
+During the development process, ChatGPT was used as a learning and productivity assistant to support debugging, code review, concept clarification, and documentation improvement. All generated suggestions were reviewed, validated, and adapted by the author before implementation.\
+\'a0\
+The project reflects the author's understanding, analysis, and final conclusions.}
