@@ -1,0 +1,2 @@
+target,predictors,best_degree,best_alpha,train_mse,test_mse,train_r2,test_r2
+SepalLengthCm,"SepalWidthCm, PetalLengthCm, PetalWidthCm",1,0.1,0.09632342530425961,0.10084001105458307,0.8568744060965332,0.8539115157602138
