@@ -38,4 +38,7 @@ iris-ridge-regression-project/
 ├── outputs/
 └── data/
 
+## Output
+[Output](https://github.com/yunachou05/data-science-learning-notes/blob/main/iris-ridge-regression-analysis%20practice/data/iris_slr_mlr_layout.xlsx)
+
 
