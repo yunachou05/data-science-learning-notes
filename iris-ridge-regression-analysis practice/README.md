@@ -32,7 +32,6 @@ iris-ridge-regression-project/
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
-├── src/
 ├── outputs/
 └── data/
 
