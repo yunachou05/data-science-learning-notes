@@ -18,10 +18,10 @@ Secondly, I sued Folium to identify the launch site locations in the map with ma
 
 Finally, I built four machine learning models to validate the best hyperplane in model prediction through accuracy scores and confusion matrix. There are the machine learning models I chose to validate: 
 
-- Logistic Regression
-- SVM
-- Decision Tree
-- KNN
+- Logistic Regression: For baseline interpretable model
+- SVM: For handles nonlinear boundaries
+- Decision Tree: For captures nonlinear relationships 
+- KNN: For instance-based learning
   
 ## Features
 
