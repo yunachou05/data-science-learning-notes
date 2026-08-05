@@ -154,8 +154,8 @@ unemployment-gdp-analysis/
 
 - 📄 **Final Report**
 
-  `Final Project_ The Relationship Between Unemployment and U.S. Real GDP Growth_V1.7.pdf`
-
+  [Final Project_ The Relationship Between Unemployment and U.S. Real GDP Growth_V1.7.pdf]
+(https://github.com/yunachou05/data-science-learning-notes/blob/main/unemployment-gdp-analysis/Final%20Project_%20The%20Relationship%20Between%20Unemployment%20and%20U.S.%20Real%20GDP%20Growth_V1.7.pdf)
 ---
 
 ## Technologies Used
