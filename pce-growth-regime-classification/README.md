@@ -1,4 +1,4 @@
-# PCE Growth Regime Classification and Economic Feature Discovery
+# PCE Growth Regime Classification and Economic Feature Discovery (economic machine-learning experiment)
 
 ### An Experimental Supervised Machine Learning Framework for Classifying U.S. Personal Consumption Expenditure Growth
 
