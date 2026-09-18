@@ -270,6 +270,10 @@ references/    Data-source documentation
 
 ---
 
+## Output
+
+- [Project Report (PDF)](https://github.com/yunachou05/data-science-learning-notes/blob/main/unsupervised-learning/state-economic-similarity-analysis/reports/State-Level%20Economic%20Similarity%20and%20Structural%20Stability_v.2.pdf)
+
 ## Technologies
 
 - Python
