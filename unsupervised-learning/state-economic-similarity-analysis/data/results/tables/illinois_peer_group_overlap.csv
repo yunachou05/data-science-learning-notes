@@ -1,0 +1,4 @@
+Comparison,Shared_Top_Five_Peers,Shared_States,Jaccard_Similarity
+Baseline → Shock,5,"Colorado, Maryland, New Hampshire, New Jersey, Virginia",1.0
+Shock → Post-shock,3,"Maryland, New Hampshire, New Jersey",0.42857142857142855
+Baseline → Post-shock,3,"Maryland, New Hampshire, New Jersey",0.42857142857142855

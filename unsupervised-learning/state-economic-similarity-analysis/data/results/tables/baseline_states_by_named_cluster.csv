@@ -1,0 +1,8 @@
+Cluster_ID,Cluster_Name,Number_of_States,States
+0,High-Capacity Professional-Service Economies,6,"California, Delaware, Illinois, Maryland, New Jersey, Virginia"
+1,Lower-Capacity Resource-Healthcare Economies,10,"Idaho, Louisiana, Maine, Montana, New Mexico, Oklahoma, Oregon, South Dakota, Vermont, West Virginia"
+2,Balanced Manufacturing-Healthcare Economies,7,"Minnesota, Missouri, Nebraska, New Hampshire, Ohio, Pennsylvania, Rhode Island"
+3,High-Capacity Resource-Specialized Economies,4,"Alaska, North Dakota, Washington, Wyoming"
+4,Very-High-Capacity Service-Healthcare Economies,3,"Connecticut, Massachusetts, New York"
+5,Professional-Service Low-Healthcare Economies,8,"Arizona, Colorado, Florida, Georgia, Hawaii, Nevada, Texas, Utah"
+6,Lower-Capacity Manufacturing-Intensive Economies,12,"Alabama, Arkansas, Indiana, Iowa, Kansas, Kentucky, Michigan, Mississippi, North Carolina, South Carolina, Tennessee, Wisconsin"

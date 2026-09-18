@@ -1,0 +1,2 @@
+Number_of_Clusters,Inertia,Silhouette_Score,Calinski_Harabasz_Score,Davies_Bouldin_Score,Smallest_Cluster,Largest_Cluster,Smallest_Cluster_Percent,Mean_Stability_ARI,Minimum_Stability_ARI,Stability_ARI_Std,Selection_Reason
+7,269.41502387663115,0.30756435855249603,73.63965454248344,1.0625589668700515,10,28,6.666666666666667,0.9575799072918443,0.9137707780095721,0.030034006569586227,"Strong separation, high stability, balanced sizes, and useful structural detail"

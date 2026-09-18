@@ -1,0 +1,4 @@
+Comparison,Changed_States,Unchanged_States,Changed_Percent
+Baseline → Shock,9,41,18.0
+Shock → Post-shock,1,49,2.0
+Baseline → Post-shock,10,40,20.0

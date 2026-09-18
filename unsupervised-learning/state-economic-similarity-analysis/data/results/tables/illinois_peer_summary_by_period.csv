@@ -1,0 +1,4 @@
+period,Closest_Peer,Closest_Distance,Top_Five_Peers,Same_Cluster_Peers,Period_Label
+Baseline_2015_2019,New Hampshire,1.5679452051080713,"New Hampshire, Virginia, New Jersey, Maryland, Colorado",3,Baseline: 2015–2019
+Shock_2020_2022,New Hampshire,1.0281928631305344,"New Hampshire, New Jersey, Colorado, Maryland, Virginia",5,Shock: 2020–2022
+Post_Shock_2023_2024,New Hampshire,0.519311433922661,"New Hampshire, New Jersey, Texas, Maryland, Delaware",4,Post-shock: 2023–2024

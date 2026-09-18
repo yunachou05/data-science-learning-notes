@@ -1,0 +1,51 @@
+state_fips,state,Baseline_Cluster_ID,Shock_Cluster_ID,Post_Shock_Cluster_ID,Baseline_Cluster_Name,Shock_Cluster_Name,Post_Shock_Cluster_Name,Cluster_Path,Structural_Status
+01,Alabama,6,6,6,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,6 → 6 → 6,Structurally stable
+02,Alaska,3,3,3,High-Capacity Resource-Specialized Economies,High-Capacity Resource-Specialized Economies,High-Capacity Resource-Specialized Economies,3 → 3 → 3,Structurally stable
+04,Arizona,5,5,5,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,5 → 5 → 5,Structurally stable
+05,Arkansas,6,6,6,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,6 → 6 → 6,Structurally stable
+06,California,0,4,4,High-Capacity Professional-Service Economies,Very-High-Capacity Service-Healthcare Economies,Very-High-Capacity Service-Healthcare Economies,0 → 4 → 4,Possible shock-origin persistent shift
+08,Colorado,5,0,0,Professional-Service Low-Healthcare Economies,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,5 → 0 → 0,Possible shock-origin persistent shift
+09,Connecticut,4,4,4,Very-High-Capacity Service-Healthcare Economies,Very-High-Capacity Service-Healthcare Economies,Very-High-Capacity Service-Healthcare Economies,4 → 4 → 4,Structurally stable
+10,Delaware,0,0,0,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,0 → 0 → 0,Structurally stable
+12,Florida,5,5,5,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,5 → 5 → 5,Structurally stable
+13,Georgia,5,5,5,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,5 → 5 → 5,Structurally stable
+15,Hawaii,5,5,5,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,5 → 5 → 5,Structurally stable
+16,Idaho,1,1,1,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,1 → 1 → 1,Structurally stable
+17,Illinois,0,0,0,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,0 → 0 → 0,Structurally stable
+18,Indiana,6,6,6,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,6 → 6 → 6,Structurally stable
+19,Iowa,6,6,6,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,6 → 6 → 6,Structurally stable
+20,Kansas,6,2,2,Lower-Capacity Manufacturing-Intensive Economies,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,6 → 2 → 2,Possible shock-origin persistent shift
+21,Kentucky,6,6,6,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,6 → 6 → 6,Structurally stable
+22,Louisiana,1,1,1,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,1 → 1 → 1,Structurally stable
+23,Maine,1,1,2,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,1 → 1 → 2,Possible post-shock shift
+24,Maryland,0,0,0,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,0 → 0 → 0,Structurally stable
+25,Massachusetts,4,4,4,Very-High-Capacity Service-Healthcare Economies,Very-High-Capacity Service-Healthcare Economies,Very-High-Capacity Service-Healthcare Economies,4 → 4 → 4,Structurally stable
+26,Michigan,6,2,2,Lower-Capacity Manufacturing-Intensive Economies,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,6 → 2 → 2,Possible shock-origin persistent shift
+27,Minnesota,2,2,2,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,2 → 2 → 2,Structurally stable
+28,Mississippi,6,6,6,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,6 → 6 → 6,Structurally stable
+29,Missouri,2,2,2,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,2 → 2 → 2,Structurally stable
+30,Montana,1,1,1,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,1 → 1 → 1,Structurally stable
+31,Nebraska,2,2,2,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,2 → 2 → 2,Structurally stable
+32,Nevada,5,5,5,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,5 → 5 → 5,Structurally stable
+33,New Hampshire,2,0,0,Balanced Manufacturing-Healthcare Economies,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,2 → 0 → 0,Possible shock-origin persistent shift
+34,New Jersey,0,0,0,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,0 → 0 → 0,Structurally stable
+35,New Mexico,1,1,1,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,1 → 1 → 1,Structurally stable
+36,New York,4,4,4,Very-High-Capacity Service-Healthcare Economies,Very-High-Capacity Service-Healthcare Economies,Very-High-Capacity Service-Healthcare Economies,4 → 4 → 4,Structurally stable
+37,North Carolina,6,5,5,Lower-Capacity Manufacturing-Intensive Economies,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,6 → 5 → 5,Possible shock-origin persistent shift
+38,North Dakota,3,3,3,High-Capacity Resource-Specialized Economies,High-Capacity Resource-Specialized Economies,High-Capacity Resource-Specialized Economies,3 → 3 → 3,Structurally stable
+39,Ohio,2,2,2,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,2 → 2 → 2,Structurally stable
+40,Oklahoma,1,1,1,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,1 → 1 → 1,Structurally stable
+41,Oregon,1,2,2,Lower-Capacity Resource-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,1 → 2 → 2,Possible shock-origin persistent shift
+42,Pennsylvania,2,2,2,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,2 → 2 → 2,Structurally stable
+44,Rhode Island,2,2,2,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,2 → 2 → 2,Structurally stable
+45,South Carolina,6,6,6,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,6 → 6 → 6,Structurally stable
+46,South Dakota,1,1,1,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,1 → 1 → 1,Structurally stable
+47,Tennessee,6,2,2,Lower-Capacity Manufacturing-Intensive Economies,Balanced Manufacturing-Healthcare Economies,Balanced Manufacturing-Healthcare Economies,6 → 2 → 2,Possible shock-origin persistent shift
+48,Texas,5,5,5,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,5 → 5 → 5,Structurally stable
+49,Utah,5,5,5,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,Professional-Service Low-Healthcare Economies,5 → 5 → 5,Structurally stable
+50,Vermont,1,1,1,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,1 → 1 → 1,Structurally stable
+51,Virginia,0,0,0,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,High-Capacity Professional-Service Economies,0 → 0 → 0,Structurally stable
+53,Washington,3,4,4,High-Capacity Resource-Specialized Economies,Very-High-Capacity Service-Healthcare Economies,Very-High-Capacity Service-Healthcare Economies,3 → 4 → 4,Possible shock-origin persistent shift
+54,West Virginia,1,1,1,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,Lower-Capacity Resource-Healthcare Economies,1 → 1 → 1,Structurally stable
+55,Wisconsin,6,6,6,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,Lower-Capacity Manufacturing-Intensive Economies,6 → 6 → 6,Structurally stable
+56,Wyoming,3,3,3,High-Capacity Resource-Specialized Economies,High-Capacity Resource-Specialized Economies,High-Capacity Resource-Specialized Economies,3 → 3 → 3,Structurally stable

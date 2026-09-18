@@ -1,0 +1,51 @@
+state_fips,state,Cluster_ID,Cluster,Cluster_Name,State_Code,Cluster_Map_Label,Research_Period
+06,California,0,Cluster_0,High-Capacity Professional-Service Economies,CA,0 — High-Capacity Professional Service,Baseline: 2015–2019
+10,Delaware,0,Cluster_0,High-Capacity Professional-Service Economies,DE,0 — High-Capacity Professional Service,Baseline: 2015–2019
+17,Illinois,0,Cluster_0,High-Capacity Professional-Service Economies,IL,0 — High-Capacity Professional Service,Baseline: 2015–2019
+24,Maryland,0,Cluster_0,High-Capacity Professional-Service Economies,MD,0 — High-Capacity Professional Service,Baseline: 2015–2019
+34,New Jersey,0,Cluster_0,High-Capacity Professional-Service Economies,NJ,0 — High-Capacity Professional Service,Baseline: 2015–2019
+51,Virginia,0,Cluster_0,High-Capacity Professional-Service Economies,VA,0 — High-Capacity Professional Service,Baseline: 2015–2019
+16,Idaho,1,Cluster_1,Lower-Capacity Resource-Healthcare Economies,ID,1 — Lower-Capacity Resource–Healthcare,Baseline: 2015–2019
+22,Louisiana,1,Cluster_1,Lower-Capacity Resource-Healthcare Economies,LA,1 — Lower-Capacity Resource–Healthcare,Baseline: 2015–2019
+23,Maine,1,Cluster_1,Lower-Capacity Resource-Healthcare Economies,ME,1 — Lower-Capacity Resource–Healthcare,Baseline: 2015–2019
+30,Montana,1,Cluster_1,Lower-Capacity Resource-Healthcare Economies,MT,1 — Lower-Capacity Resource–Healthcare,Baseline: 2015–2019
+35,New Mexico,1,Cluster_1,Lower-Capacity Resource-Healthcare Economies,NM,1 — Lower-Capacity Resource–Healthcare,Baseline: 2015–2019
+40,Oklahoma,1,Cluster_1,Lower-Capacity Resource-Healthcare Economies,OK,1 — Lower-Capacity Resource–Healthcare,Baseline: 2015–2019
+41,Oregon,1,Cluster_1,Lower-Capacity Resource-Healthcare Economies,OR,1 — Lower-Capacity Resource–Healthcare,Baseline: 2015–2019
+46,South Dakota,1,Cluster_1,Lower-Capacity Resource-Healthcare Economies,SD,1 — Lower-Capacity Resource–Healthcare,Baseline: 2015–2019
+50,Vermont,1,Cluster_1,Lower-Capacity Resource-Healthcare Economies,VT,1 — Lower-Capacity Resource–Healthcare,Baseline: 2015–2019
+54,West Virginia,1,Cluster_1,Lower-Capacity Resource-Healthcare Economies,WV,1 — Lower-Capacity Resource–Healthcare,Baseline: 2015–2019
+27,Minnesota,2,Cluster_2,Balanced Manufacturing-Healthcare Economies,MN,2 — Balanced Manufacturing–Healthcare,Baseline: 2015–2019
+29,Missouri,2,Cluster_2,Balanced Manufacturing-Healthcare Economies,MO,2 — Balanced Manufacturing–Healthcare,Baseline: 2015–2019
+31,Nebraska,2,Cluster_2,Balanced Manufacturing-Healthcare Economies,NE,2 — Balanced Manufacturing–Healthcare,Baseline: 2015–2019
+33,New Hampshire,2,Cluster_2,Balanced Manufacturing-Healthcare Economies,NH,2 — Balanced Manufacturing–Healthcare,Baseline: 2015–2019
+39,Ohio,2,Cluster_2,Balanced Manufacturing-Healthcare Economies,OH,2 — Balanced Manufacturing–Healthcare,Baseline: 2015–2019
+42,Pennsylvania,2,Cluster_2,Balanced Manufacturing-Healthcare Economies,PA,2 — Balanced Manufacturing–Healthcare,Baseline: 2015–2019
+44,Rhode Island,2,Cluster_2,Balanced Manufacturing-Healthcare Economies,RI,2 — Balanced Manufacturing–Healthcare,Baseline: 2015–2019
+02,Alaska,3,Cluster_3,High-Capacity Resource-Specialized Economies,AK,3 — High-Capacity Resource Specialized,Baseline: 2015–2019
+38,North Dakota,3,Cluster_3,High-Capacity Resource-Specialized Economies,ND,3 — High-Capacity Resource Specialized,Baseline: 2015–2019
+53,Washington,3,Cluster_3,High-Capacity Resource-Specialized Economies,WA,3 — High-Capacity Resource Specialized,Baseline: 2015–2019
+56,Wyoming,3,Cluster_3,High-Capacity Resource-Specialized Economies,WY,3 — High-Capacity Resource Specialized,Baseline: 2015–2019
+09,Connecticut,4,Cluster_4,Very-High-Capacity Service-Healthcare Economies,CT,4 — Very-High-Capacity Service–Healthcare,Baseline: 2015–2019
+25,Massachusetts,4,Cluster_4,Very-High-Capacity Service-Healthcare Economies,MA,4 — Very-High-Capacity Service–Healthcare,Baseline: 2015–2019
+36,New York,4,Cluster_4,Very-High-Capacity Service-Healthcare Economies,NY,4 — Very-High-Capacity Service–Healthcare,Baseline: 2015–2019
+04,Arizona,5,Cluster_5,Professional-Service Low-Healthcare Economies,AZ,"5 — Professional Service, Low Healthcare",Baseline: 2015–2019
+08,Colorado,5,Cluster_5,Professional-Service Low-Healthcare Economies,CO,"5 — Professional Service, Low Healthcare",Baseline: 2015–2019
+12,Florida,5,Cluster_5,Professional-Service Low-Healthcare Economies,FL,"5 — Professional Service, Low Healthcare",Baseline: 2015–2019
+13,Georgia,5,Cluster_5,Professional-Service Low-Healthcare Economies,GA,"5 — Professional Service, Low Healthcare",Baseline: 2015–2019
+15,Hawaii,5,Cluster_5,Professional-Service Low-Healthcare Economies,HI,"5 — Professional Service, Low Healthcare",Baseline: 2015–2019
+32,Nevada,5,Cluster_5,Professional-Service Low-Healthcare Economies,NV,"5 — Professional Service, Low Healthcare",Baseline: 2015–2019
+48,Texas,5,Cluster_5,Professional-Service Low-Healthcare Economies,TX,"5 — Professional Service, Low Healthcare",Baseline: 2015–2019
+49,Utah,5,Cluster_5,Professional-Service Low-Healthcare Economies,UT,"5 — Professional Service, Low Healthcare",Baseline: 2015–2019
+01,Alabama,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,AL,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019
+05,Arkansas,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,AR,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019
+18,Indiana,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,IN,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019
+19,Iowa,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,IA,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019
+20,Kansas,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,KS,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019
+21,Kentucky,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,KY,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019
+26,Michigan,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,MI,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019
+28,Mississippi,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,MS,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019
+37,North Carolina,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,NC,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019
+45,South Carolina,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,SC,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019
+47,Tennessee,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,TN,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019
+55,Wisconsin,6,Cluster_6,Lower-Capacity Manufacturing-Intensive Economies,WI,6 — Lower-Capacity Manufacturing Intensive,Baseline: 2015–2019

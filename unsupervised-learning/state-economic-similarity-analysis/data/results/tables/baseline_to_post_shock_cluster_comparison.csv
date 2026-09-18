@@ -1,0 +1,51 @@
+state_fips,state,Baseline_Cluster_ID,Baseline_Cluster_Name,Post_Shock_Cluster_ID,Post_Shock_Cluster_Name,Baseline_to_Post_Status,Cluster_Transition,State_Code
+01,Alabama,6,Lower-Capacity Manufacturing-Intensive Economies,6,Lower-Capacity Manufacturing-Intensive Economies,Same cluster,6 → 6,AL
+02,Alaska,3,High-Capacity Resource-Specialized Economies,3,High-Capacity Resource-Specialized Economies,Same cluster,3 → 3,AK
+04,Arizona,5,Professional-Service Low-Healthcare Economies,5,Professional-Service Low-Healthcare Economies,Same cluster,5 → 5,AZ
+05,Arkansas,6,Lower-Capacity Manufacturing-Intensive Economies,6,Lower-Capacity Manufacturing-Intensive Economies,Same cluster,6 → 6,AR
+06,California,0,High-Capacity Professional-Service Economies,4,Very-High-Capacity Service-Healthcare Economies,Changed cluster,0 → 4,CA
+08,Colorado,5,Professional-Service Low-Healthcare Economies,0,High-Capacity Professional-Service Economies,Changed cluster,5 → 0,CO
+09,Connecticut,4,Very-High-Capacity Service-Healthcare Economies,4,Very-High-Capacity Service-Healthcare Economies,Same cluster,4 → 4,CT
+10,Delaware,0,High-Capacity Professional-Service Economies,0,High-Capacity Professional-Service Economies,Same cluster,0 → 0,DE
+12,Florida,5,Professional-Service Low-Healthcare Economies,5,Professional-Service Low-Healthcare Economies,Same cluster,5 → 5,FL
+13,Georgia,5,Professional-Service Low-Healthcare Economies,5,Professional-Service Low-Healthcare Economies,Same cluster,5 → 5,GA
+15,Hawaii,5,Professional-Service Low-Healthcare Economies,5,Professional-Service Low-Healthcare Economies,Same cluster,5 → 5,HI
+16,Idaho,1,Lower-Capacity Resource-Healthcare Economies,1,Lower-Capacity Resource-Healthcare Economies,Same cluster,1 → 1,ID
+17,Illinois,0,High-Capacity Professional-Service Economies,0,High-Capacity Professional-Service Economies,Same cluster,0 → 0,IL
+18,Indiana,6,Lower-Capacity Manufacturing-Intensive Economies,6,Lower-Capacity Manufacturing-Intensive Economies,Same cluster,6 → 6,IN
+19,Iowa,6,Lower-Capacity Manufacturing-Intensive Economies,6,Lower-Capacity Manufacturing-Intensive Economies,Same cluster,6 → 6,IA
+20,Kansas,6,Lower-Capacity Manufacturing-Intensive Economies,2,Balanced Manufacturing-Healthcare Economies,Changed cluster,6 → 2,KS
+21,Kentucky,6,Lower-Capacity Manufacturing-Intensive Economies,6,Lower-Capacity Manufacturing-Intensive Economies,Same cluster,6 → 6,KY
+22,Louisiana,1,Lower-Capacity Resource-Healthcare Economies,1,Lower-Capacity Resource-Healthcare Economies,Same cluster,1 → 1,LA
+23,Maine,1,Lower-Capacity Resource-Healthcare Economies,2,Balanced Manufacturing-Healthcare Economies,Changed cluster,1 → 2,ME
+24,Maryland,0,High-Capacity Professional-Service Economies,0,High-Capacity Professional-Service Economies,Same cluster,0 → 0,MD
+25,Massachusetts,4,Very-High-Capacity Service-Healthcare Economies,4,Very-High-Capacity Service-Healthcare Economies,Same cluster,4 → 4,MA
+26,Michigan,6,Lower-Capacity Manufacturing-Intensive Economies,2,Balanced Manufacturing-Healthcare Economies,Changed cluster,6 → 2,MI
+27,Minnesota,2,Balanced Manufacturing-Healthcare Economies,2,Balanced Manufacturing-Healthcare Economies,Same cluster,2 → 2,MN
+28,Mississippi,6,Lower-Capacity Manufacturing-Intensive Economies,6,Lower-Capacity Manufacturing-Intensive Economies,Same cluster,6 → 6,MS
+29,Missouri,2,Balanced Manufacturing-Healthcare Economies,2,Balanced Manufacturing-Healthcare Economies,Same cluster,2 → 2,MO
+30,Montana,1,Lower-Capacity Resource-Healthcare Economies,1,Lower-Capacity Resource-Healthcare Economies,Same cluster,1 → 1,MT
+31,Nebraska,2,Balanced Manufacturing-Healthcare Economies,2,Balanced Manufacturing-Healthcare Economies,Same cluster,2 → 2,NE
+32,Nevada,5,Professional-Service Low-Healthcare Economies,5,Professional-Service Low-Healthcare Economies,Same cluster,5 → 5,NV
+33,New Hampshire,2,Balanced Manufacturing-Healthcare Economies,0,High-Capacity Professional-Service Economies,Changed cluster,2 → 0,NH
+34,New Jersey,0,High-Capacity Professional-Service Economies,0,High-Capacity Professional-Service Economies,Same cluster,0 → 0,NJ
+35,New Mexico,1,Lower-Capacity Resource-Healthcare Economies,1,Lower-Capacity Resource-Healthcare Economies,Same cluster,1 → 1,NM
+36,New York,4,Very-High-Capacity Service-Healthcare Economies,4,Very-High-Capacity Service-Healthcare Economies,Same cluster,4 → 4,NY
+37,North Carolina,6,Lower-Capacity Manufacturing-Intensive Economies,5,Professional-Service Low-Healthcare Economies,Changed cluster,6 → 5,NC
+38,North Dakota,3,High-Capacity Resource-Specialized Economies,3,High-Capacity Resource-Specialized Economies,Same cluster,3 → 3,ND
+39,Ohio,2,Balanced Manufacturing-Healthcare Economies,2,Balanced Manufacturing-Healthcare Economies,Same cluster,2 → 2,OH
+40,Oklahoma,1,Lower-Capacity Resource-Healthcare Economies,1,Lower-Capacity Resource-Healthcare Economies,Same cluster,1 → 1,OK
+41,Oregon,1,Lower-Capacity Resource-Healthcare Economies,2,Balanced Manufacturing-Healthcare Economies,Changed cluster,1 → 2,OR
+42,Pennsylvania,2,Balanced Manufacturing-Healthcare Economies,2,Balanced Manufacturing-Healthcare Economies,Same cluster,2 → 2,PA
+44,Rhode Island,2,Balanced Manufacturing-Healthcare Economies,2,Balanced Manufacturing-Healthcare Economies,Same cluster,2 → 2,RI
+45,South Carolina,6,Lower-Capacity Manufacturing-Intensive Economies,6,Lower-Capacity Manufacturing-Intensive Economies,Same cluster,6 → 6,SC
+46,South Dakota,1,Lower-Capacity Resource-Healthcare Economies,1,Lower-Capacity Resource-Healthcare Economies,Same cluster,1 → 1,SD
+47,Tennessee,6,Lower-Capacity Manufacturing-Intensive Economies,2,Balanced Manufacturing-Healthcare Economies,Changed cluster,6 → 2,TN
+48,Texas,5,Professional-Service Low-Healthcare Economies,5,Professional-Service Low-Healthcare Economies,Same cluster,5 → 5,TX
+49,Utah,5,Professional-Service Low-Healthcare Economies,5,Professional-Service Low-Healthcare Economies,Same cluster,5 → 5,UT
+50,Vermont,1,Lower-Capacity Resource-Healthcare Economies,1,Lower-Capacity Resource-Healthcare Economies,Same cluster,1 → 1,VT
+51,Virginia,0,High-Capacity Professional-Service Economies,0,High-Capacity Professional-Service Economies,Same cluster,0 → 0,VA
+53,Washington,3,High-Capacity Resource-Specialized Economies,4,Very-High-Capacity Service-Healthcare Economies,Changed cluster,3 → 4,WA
+54,West Virginia,1,Lower-Capacity Resource-Healthcare Economies,1,Lower-Capacity Resource-Healthcare Economies,Same cluster,1 → 1,WV
+55,Wisconsin,6,Lower-Capacity Manufacturing-Intensive Economies,6,Lower-Capacity Manufacturing-Intensive Economies,Same cluster,6 → 6,WI
+56,Wyoming,3,High-Capacity Resource-Specialized Economies,3,High-Capacity Resource-Specialized Economies,Same cluster,3 → 3,WY
